@@ -1,0 +1,38 @@
+body{
+background-color: black;
+text-align: center;
+
+}
+
+h1{
+
+background-color: orange;
+border: 1px solid black;
+border-radius: 15px;
+margin-left: 35%;
+margin-right: 35%;
+
+}
+
+a {
+
+color: rgb(255, 255, 255);
+
+
+}
+
+
+p{
+
+color: aqua;
+
+}
+#JavaScript{
+
+background-color: rgba(100, 100, 100, 0.308);
+border: 1px solid black;
+border-radius: 15px;
+padding-bottom: 1%;
+margin-left: 28%;
+margin-right: 28%;
+}

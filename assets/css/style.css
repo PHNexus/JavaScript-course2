@@ -1,0 +1,32 @@
+body {
+background-color: white;
+
+}
+
+.title1{
+
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+background-color: orange;
+border: 1px solid black;
+border-radius: 15px;
+margin-left: 35%;
+margin-right: 35%;
+
+}
+
+#Menu {
+display: block;
+text-align: center;
+background-color: rgba(255, 166, 0, 0.712);
+border: 1px solid black;
+border-radius: 15px;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    padding-left: 3%;
+}
