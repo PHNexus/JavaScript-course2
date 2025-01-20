@@ -45,11 +45,21 @@ margin-right: 15%;
 
 .pr1 {
 
-background-color: blue;
+background-color: rgba(0, 0, 255, 0.486);
 color: rgb(255, 255, 255);
 border: 1px solid rgb(0, 255, 191);
 border-radius: 15px;
 margin-left: 25%;
 margin-right: 25%;
 text-align: center;
+}
+
+.pr2 {
+border: 1px solid black;
+border-radius: 5px;
+text-align: left;
+padding-left: 1%;
+margin-left: 5%;
+margin-right: 60%;
+
 }
