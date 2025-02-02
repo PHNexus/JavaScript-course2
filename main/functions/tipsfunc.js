@@ -43,4 +43,4 @@ return somar*5
 
 }
 
-console.log(calculate(10))
+
