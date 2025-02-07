@@ -93,3 +93,18 @@ console.log(elisaSanchez)
 meloes()
 console.log(elisaSanchez) // ira imprimir elia com os meloes gigantes
 
+
+
+
+
+let CorSite5 = 'roxo'
+
+
+function ResetaCor5(){
+
+CorSite5 = ''
+
+}
+console.log(CorSite5)
+ResetaCor5()
+console.log(CorSite5)
