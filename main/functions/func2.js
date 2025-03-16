@@ -1,17 +1,11 @@
 //teste de funcoes
 
+let Cor = "Azul";
 
-let Cor = 'Azul'
-
-
-function trocarCor(){
-
-Cor = 'Vermelho'
-
+function trocarCor() {
+  Cor = "Vermelho";
 }
 
-console.log(Cor)
-trocarCor()
-console.log(Cor)
-
-
+console.log(Cor);
+trocarCor();
+console.log(Cor);

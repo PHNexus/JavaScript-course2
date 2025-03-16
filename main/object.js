@@ -1,41 +1,34 @@
-
-
 // pessoa
-let nome = 'Marcos'
-let idade = 15
-let altura = 1.80
-let sobrenome = 'Vinicius'
+let nome = "Marcos";
+let idade = 15;
+let altura = 1.8;
+let sobrenome = "Vinicius";
 
 //object
 let pessoa = {
+  nome: "Marcos",
+  idade: 15,
+  altura: 1.8,
+  sobrenome: "Vinicius",
+};
 
-nome:'Marcos',
-idade: 15,
-altura: 1.80,
-sobrenome: 'Vinicius',
-
-}
-
-console.log(pessoa) //imprimir
-
+console.log(pessoa); //imprimir
 
 //personagem
-let armadura = 'Capacete,Elmo,Robe'
-let arma = 'espada,arco,lanca'
-let habilidades = 'correr,pular,velocidade'
-let magias = 'fogo,raios,terra,'
+let armadura = "Capacete,Elmo,Robe";
+let arma = "espada,arco,lanca";
+let habilidades = "correr,pular,velocidade";
+let magias = "fogo,raios,terra,";
 
 // object
 let personagem = {
-    armadura,
-    arma,
-    habilidades,
-    magias,
+  armadura,
+  arma,
+  habilidades,
+  magias,
+};
 
-}
-
-
-console.log(personagem)
+console.log(personagem);
 // camelCase
 // const nao pode mudar
 // let pode ser redefinido varias vezes
