@@ -18,16 +18,16 @@ function calculadora(valor) {
 }
 
 console.log(calculadora(10)); // 10 x 3 = 30
-calculadora()
+calculadora();
 //praticando calculadora
 
 function calculadora3(calculadora3) {
   return calculadora3 * 2;
 }
-calculadora3()
+calculadora3();
 console.log(calculadora3(15)); // 15 x 2 = 30
 
 function calculate(somar) {
   return somar * 5;
 }
-console.log(calculate(5)) //5 x 5 = 25
+console.log(calculate(5)); //5 x 5 = 25
