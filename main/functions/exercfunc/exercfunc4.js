@@ -3,19 +3,18 @@ function multiplicacao(valor) {
 }
 console.log(multiplicacao(10));
 
-function dividir(valor){
-    return valor / 2
+function dividir(valor) {
+  return valor / 2;
 }
-console.log(dividir(10)) // ira retornar 5
+console.log(dividir(10)); // ira retornar 5
 
-
-function potencia(valor){
-    return valor ** 2
+function potencia(valor) {
+  return valor ** 2;
 }
-console.log(potencia(5)) // == 5 x 5 = 25
+console.log(potencia(5)); // == 5 x 5 = 25
 
-function subtrair(valor){
-    return valor - 2
+function subtrair(valor) {
+  return valor - 2;
 }
 
-console.log(subtrair(10)) // == 10 - 2 = 8
+console.log(subtrair(10)); // == 10 - 2 = 8
