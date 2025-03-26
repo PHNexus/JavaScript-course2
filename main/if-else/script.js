@@ -6,3 +6,4 @@ if (idade > 18) {
   console.log("É menor de idade");
 }
 
+// 
