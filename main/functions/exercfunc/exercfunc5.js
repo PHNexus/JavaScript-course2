@@ -15,3 +15,7 @@ let numero = 17
 let maiorDeIdade = (numero >= 18 ?'sim e maior de idade' :  'e menor de idade')
 // para ser maior de idade precisa ser maior de 18
 console.log(maiorDeIdade)
+
+
+
+
