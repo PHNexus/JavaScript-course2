@@ -21,7 +21,6 @@ function mudartonalidade(cor, tonalidade) {
 // na funcao, coloco o seguinte cor e concanteno com tonalidade
 // no final continuo com a msm cor mais poderia alterar
 // assim ficando, verde claro, com a concatenacao
-
 console.log(corCamisa2);
 mudartonalidade("verde", " claro");
 console.log(corCamisa2);
