@@ -9,3 +9,4 @@ function trocarCor() {
 console.log(Cor);
 trocarCor();
 console.log(Cor);
+ 
