@@ -6,3 +6,6 @@ console.log(familiaidade.length); // map,filter etc  4 | idades
 // o array tambem faz parte dos objetos
 console.log(familiaidade[1]); // ira puxar a idade 1 = 26
 // se quiser contar o numero de idades que tem
+
+let familiaIdade = [16, 226, 75, 38]
+console.log(familiaIdade[2])
